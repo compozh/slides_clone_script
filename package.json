@@ -1,0 +1,22 @@
+{
+  "bin": {
+    "slides-clone": "index.js"
+  },
+  "name": "slides-clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Igor Pevchev",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "cheerio": "^1.0.0-rc.2",
+    "commander": "^2.19.0",
+    "fs-extra": "^7.0.0",
+    "path": "^0.12.7",
+    "prompts": "^1.2.0"
+  }
+}
